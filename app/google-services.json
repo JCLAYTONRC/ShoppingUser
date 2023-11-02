@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "347140436645",
+    "project_id": "maintest-6a36c",
+    "storage_bucket": "maintest-6a36c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347140436645:android:e570247a10f683a965d34c",
+        "android_client_info": {
+          "package_name": "com.claydev.clayton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347140436645-sk4dm5kghua988fep4if29st65ack8tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.claydev.clayton",
+            "certificate_hash": "2f07dc2f0f6bbb43fb7f87f88441dde06e6d5d95"
+          }
+        },
+        {
+          "client_id": "347140436645-955jpsc7mtmnjj71o472mp3mi3slhhoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Tyf1sM9yTWPtZwSC8blYYGcQUiF_4vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347140436645-955jpsc7mtmnjj71o472mp3mi3slhhoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347140436645:android:30e9f13e3a3b4dd365d34c",
+        "android_client_info": {
+          "package_name": "com.claydev.claytonuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347140436645-955jpsc7mtmnjj71o472mp3mi3slhhoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Tyf1sM9yTWPtZwSC8blYYGcQUiF_4vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347140436645-955jpsc7mtmnjj71o472mp3mi3slhhoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347140436645:android:068362d3fb0fdd7965d34c",
+        "android_client_info": {
+          "package_name": "earth.quake.record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347140436645-tavbv1b87dj2f75gviesfof2klj2cg2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "earth.quake.record",
+            "certificate_hash": "23599cb775bdac0a5b9962b2f4348607c397a8b4"
+          }
+        },
+        {
+          "client_id": "347140436645-955jpsc7mtmnjj71o472mp3mi3slhhoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Tyf1sM9yTWPtZwSC8blYYGcQUiF_4vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347140436645-955jpsc7mtmnjj71o472mp3mi3slhhoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
